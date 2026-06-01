@@ -69,8 +69,7 @@ The figure below shows the signal state at each stage of the pipeline for a rand
 
 ## Simulation Output
 
-<!-- Replace with GIF or video link once recorded -->
-*Simulation video coming soon. Run the final cell with PyBullet GUI enabled to reproduce.*
+<video src="assets/clean_simulation.mp4" controls width="100%"></video>
 
 The arm demonstrates four movement classes driven by classified EEG intent:
 
