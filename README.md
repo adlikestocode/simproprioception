@@ -71,7 +71,7 @@ The figure below shows the signal state at each stage of the pipeline for a rand
 
 The arm demonstrates four movement classes driven by classified EEG intent:
 
-[▶ Watch simulation](assets/clean_simulation.mp4)
+![Simulation](assets/clean_simulation.gif)
 
 | Class | Motor Imagery | Joint | Movement |
 |---|---|---|---|
