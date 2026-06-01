@@ -95,15 +95,3 @@ conda activate eeg-bci
 BCI Competition IV Dataset 2a is required to run the preprocessing stages. Download from the official BCI Competition IV archive and place `.gdf` files in a `raweegdata/` directory.
 
 > Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). *BCI Competition 2008 – Graz Data Set A*. Institute for Knowledge Discovery, Graz University of Technology.
-
-## Status
-
-- [x] Preprocessing pipeline
-- [x] Epoching & artifact scrubbing
-- [x] Riemannian geometry + SVM classification
-- [x] Dynamic calibration
-- [x] PyBullet simulation
-- [x] Pipeline QA visualisation
-- [ ] Simulation video
-- [ ] Literature review & citations
-- [ ] White paper
