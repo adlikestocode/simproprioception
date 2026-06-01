@@ -55,7 +55,7 @@ Chance level for 4-class classification is 25%. Both protocols exceed chance acr
 
 The figure below shows the signal state at each stage of the pipeline for a randomly selected subject, plus the Riemannian feature space the classifier operates in.
 
-![Pipeline QA](assets/pipeline_qa_A08T.png)
+![Pipeline QA](assets/visualising_A08T.png)
 
 **Stage 1 — Raw EEG:** Broadband signal with visible high-amplitude transients from eye blinks and saccades propagating across frontal channels.
 
