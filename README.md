@@ -71,17 +71,14 @@ The figure below shows the signal state at each stage of the pipeline for a rand
 
 The arm demonstrates four movement classes driven by classified EEG intent:
 
+[▶ Watch simulation](assets/clean_simulation.mp4)
+
 | Class | Motor Imagery | Joint | Movement |
 |---|---|---|---|
 | 1 | Left hand | Base (joint 0) | Rotate left |
 | 2 | Right hand | Base (joint 0) | Rotate right |
 | 3 | Both feet | Elbow (joint 3) | Extend up |
 | 4 | Tongue | Base + Elbow | Retract both |
-
-
-
-<video src="assets/clean_simulation.mp4" controls width="100%" height="400"></video>
-
 
 Evaluation data is sorted by class before inference to simulate sustained, continuous motor intent — the arm holds each movement direction in blocks rather than switching randomly, which reflects how a real BCI user would perform a sustained imagery task.
 
