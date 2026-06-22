@@ -4,7 +4,7 @@ A complete, end-to-end pipeline that decodes motor imagery intent from scalp EEG
 
 ## Intent
 
-Conventional robot training pipelines rely on kinematic data — motion capture, joint encoders, or visual demonstrations — which require physical hardware, controlled environments, and significant setup cost. This project demonstrates that clinically available EEG data, recorded non-invasively during imagined movement, can serve as an alternative training signal. The methodology decodes four motor imagery classes (left hand, right hand, feet, tongue) from nine subjects using a cross-subject generalisation protocol, with no subject-specific hardware or calibration required beyond a small number of additional trials. The core claim is not accuracy — it is that the methodology is viable, reproducible, and accessible in a way that kinematic pipelines are not.
+Conventional robot training pipelines rely on kinematic data  motion capture, joint encoders, or visual demonstrations which require physical hardware, controlled environments, and significant setup cost. This project demonstrates that clinically available EEG data, recorded non-invasively during imagined movement, can serve as an alternative training signal. The methodology decodes four motor imagery classes (left hand, right hand, feet, tongue) from nine subjects using a cross-subject generalisation protocol, with no subject-specific hardware or calibration required beyond a small number of additional trials. The core claim is not accuracy — it is that the methodology is viable, reproducible, and accessible in a way that kinematic pipelines are not.
 
 ## Pipeline
 
